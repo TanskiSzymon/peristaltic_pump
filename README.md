@@ -24,8 +24,6 @@ Głównym celem było zaprojektowanie pompy perystaltycznej, która miala być n
 # Version 2.0
 W drugiej wersji pompy zmniejszoną srednice węzy i dodaną drugie piętro przesunięte w fazie o 60%, tak aby gdy dolne piętro jest w fazię budowania ciśnienia górne piętro jest w przeciwnej fazie, co  zapewnia płynniejszy transport. 
 
-![image](https://github.com/user-attachments/assets/30fda436-b84a-42f4-aae9-a36806734777)
-
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=0vitXXGZiDY">
@@ -36,8 +34,6 @@ W drugiej wersji pompy zmniejszoną srednice węzy i dodaną drugie piętro prze
 
 # Version 1.0
 
-
-![image](https://github.com/user-attachments/assets/28c7bb5c-a4ea-428a-b25a-5709360efffc)
 
 ![image](https://github.com/user-attachments/assets/024fb578-a7cb-4599-8fb2-1a22547de4b0)
 
