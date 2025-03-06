@@ -7,12 +7,14 @@ It is known for rhythmic, wave-like muscle contractions that move the contents o
 <p align="center">
    <img src="https://github.com/user-attachments/assets/4fc360c6-a6c0-4841-80fc-df59311ee9b4" alt="img1">
 </p>     
-   Source: https://thryve.medium.com/irritable-bowel-syndrome-gut-motility-and-probiotics-6ea8a1644c50
+   Source: thryve.medium.com/irritable-bowel-syndrome-gut-motility-and-probiotics-6ea8a1644c50
+   
    
 <p align="center">    
+   
    <img src="https://github.com/user-attachments/assets/f7741d4b-e7eb-4f88-9c7a-94baa78f7a75" alt="img2">
 </p>     
-   Source: https://www.albinpump.com/en-us/news/how-peristaltic-pumps-work
+   Source: albinpump.com/en-us/news/how-peristaltic-pumps-work
 
 
 # About project
@@ -35,10 +37,10 @@ W drugiej wersji pompy zmniejszoną srednice węzy i dodaną drugie piętro prze
 # Version 1.0
 
 <p align="center">
-![image](https://github.com/user-attachments/assets/024fb578-a7cb-4599-8fb2-1a22547de4b0)
-
-1 – M3 screws, 2 – wheel bearings 686, 3 – silicone hose, 4 – stepper motor NEMA17, 5 – upper housing, 6 – rotor lock, 7 – rotor, 8 – lower housing.
+   <img src="https://github.com/user-attachments/assets/024fb578-a7cb-4599-8fb2-1a22547de4b0" alt="img3">
 </p>
+1 – M3 screws, 2 – wheel bearings 686, 3 – silicone hose, 4 – stepper motor NEMA17, 5 – upper housing, 6 – rotor lock, 7 – rotor, 8 – lower housing.
+
 <p align="center">
   <a href="https://www.youtube.com/watch?v=JSP97U3xEK8">
      <img src="https://img.youtube.com/vi/JSP97U3xEK8/0.jpg" alt="Watch the video.">
