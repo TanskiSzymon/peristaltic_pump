@@ -27,12 +27,7 @@ Głównym celem było zaprojektowanie pompy perystaltycznej, która miala być n
 W drugiej wersji pompy zmniejszoną srednice węzy i dodaną drugie piętro przesunięte w fazie o 60%, tak aby gdy dolne piętro jest w fazię budowania ciśnienia górne piętro jest w przeciwnej fazie, co  zapewnia płynniejszy transport. 
 
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=0vitXXGZiDY">
-     <img src="https://img.youtube.com/vi/0vitXXGZiDY/0.jpg" alt="Watch the video.">
-  </a>
-</p>
-
+https://github.com/user-attachments/assets/b63d9656-aba9-4e38-a14c-870f3bddfbf5
 
 # Version 1.0
 
@@ -51,9 +46,6 @@ W drugiej wersji pompy zmniejszoną srednice węzy i dodaną drugie piętro prze
 # Differences:
 
 A peristaltic pump for dough dosing, version A with compensation, version B without compensation.
-
-
-https://github.com/user-attachments/assets/b63d9656-aba9-4e38-a14c-870f3bddfbf5
 
 
   <img src="https://github.com/user-attachments/assets/73d692c0-4d1b-477c-8003-bd680d21ffa7" alt="pump">
