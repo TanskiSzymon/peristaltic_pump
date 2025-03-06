@@ -11,9 +11,11 @@ It is known for rhythmic, wave-like muscle contractions that move the contents o
    
    
 <p align="center">    
+
    
    <img src="https://github.com/user-attachments/assets/f7741d4b-e7eb-4f88-9c7a-94baa78f7a75" alt="img2">
 </p>     
+  
    Source: albinpump.com/en-us/news/how-peristaltic-pumps-work
 
 
@@ -30,6 +32,10 @@ W drugiej wersji pompy zmniejszoną srednice węzy i dodaną drugie piętro prze
 https://github.com/user-attachments/assets/b63d9656-aba9-4e38-a14c-870f3bddfbf5
 
 # Version 1.0
+
+
+https://github.com/user-attachments/assets/157b413c-001a-4dcc-b2e9-ea1e255c62f7
+
 
 <p align="center">
    <img src="https://github.com/user-attachments/assets/024fb578-a7cb-4599-8fb2-1a22547de4b0" alt="img3">
