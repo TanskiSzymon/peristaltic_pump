@@ -5,17 +5,10 @@
 Peristalsis is a type of smooth muscle movements that happen in different parts of the digestive tract and other systems. 
 It is known for rhythmic, wave-like muscle contractions that move the contents of the tract.
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/4fc360c6-a6c0-4841-80fc-df59311ee9b4" alt="Watch the video.">
-
-  
-  ![image](https://github.com/user-attachments/assets/4fc360c6-a6c0-4841-80fc-df59311ee9b4)
-
-  Source: https://thryve.medium.com/irritable-bowel-syndrome-gut-motility-and-probiotics-6ea8a1644c50
-
-
-  ![image](https://github.com/user-attachments/assets/f7741d4b-e7eb-4f88-9c7a-94baa78f7a75)
-
-  Source: https://www.albinpump.com/en-us/news/how-peristaltic-pumps-work
+   <img src="https://github.com/user-attachments/assets/4fc360c6-a6c0-4841-80fc-df59311ee9b4" alt="img1">
+     Source: https://thryve.medium.com/irritable-bowel-syndrome-gut-motility-and-probiotics-6ea8a1644c50
+    <img src="https://github.com/user-attachments/assets/f7741d4b-e7eb-4f88-9c7a-94baa78f7a75" alt="img2">
+     Source: https://www.albinpump.com/en-us/news/how-peristaltic-pumps-work
 </p>
 
 # About project
