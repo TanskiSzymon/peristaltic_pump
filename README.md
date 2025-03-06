@@ -2,8 +2,9 @@
 
 
 # Basics
-Peristalsis is a type of smooth muscle movements that happen in different parts of the digestive tract and other systems. 
-It is known for rhythmic, wave-like muscle contractions that move the contents of the tract.
+Peristalsis is a type of smooth muscle movement that occurs in various parts of the digestive tract and other systems. 
+It is characterized by rhythmic, wave-like muscle contractions that move the contents through the tract.
+
 <p align="center">
    <img src="https://github.com/user-attachments/assets/4fc360c6-a6c0-4841-80fc-df59311ee9b4" alt="thryve.medium.com/irritable-bowel-syndrome-gut-motility-and-probiotics-6ea8a1644c50">
 </p>     
@@ -18,13 +19,16 @@ It is known for rhythmic, wave-like muscle contractions that move the contents o
   
 
 # About project
-Projekt jest częscią wiekszego - food printer - wiecej informacji tu: https://github.com/TanskiSzymon/food-printer
 
-Głównym celem było zaprojektowanie pompy perystaltycznej, która miala być napędzana silnikiem krokowym NEMA17, była łatwa w montarzu na standardowych profialch aluminiowych 30x30 oraz wykorzystywała materialy food safe - uzyto węża z certyfiaktem, a wszystkie komponenty beda tanie, powszechnie dostępne, elementy drukowane beda łatwo drukowalne na standardowej druakrce 3D
+This project is part of a larger initiative – the food printer. More details can be found here: Food Printer [https://github.com/TanskiSzymon/food-printer]
+
+The main goal was to design a peristaltic pump powered by an NEMA17 stepper motor. The pump was designed to be easy to mount on standard 30x30 aluminum profiles and use food-safe materials. A certified food-grade hose was selected, and all components are affordable, widely available, and easy to 3D print using a standard printer.
 
 
 # Version 2.0
-W drugiej wersji pompy zmniejszoną srednice węzy i dodaną drugie piętro przesunięte w fazie o 60%, tak aby gdy dolne piętro jest w fazię budowania ciśnienia górne piętro jest w przeciwnej fazie, co  zapewnia płynniejszy transport. 
+In the second version of the pump, the hose diameter was reduced, and a second offset stage was added, shifted by 60%. 
+This ensures that when the lower stage is in the pressure-building phase, the upper stage is in the opposite phase, providing a smoother flow.
+
 
 
 https://github.com/user-attachments/assets/b63d9656-aba9-4e38-a14c-870f3bddfbf5
