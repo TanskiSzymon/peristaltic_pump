@@ -52,7 +52,11 @@ W drugiej wersji pompy zmniejszoną srednice węzy i dodaną drugie piętro prze
 
 A peristaltic pump for dough dosing, version A with compensation, version B without compensation.
 
-  <img src="https://github.com/TanskiSzymon/food-printer/assets/108231030/34ca0a6e-8bc7-479d-98d3-dbc0124987f2" alt="pump">
+
+https://github.com/user-attachments/assets/b63d9656-aba9-4e38-a14c-870f3bddfbf5
+
+
+  <img src="https://github.com/user-attachments/assets/73d692c0-4d1b-477c-8003-bd680d21ffa7" alt="pump">
   <img src="https://github.com/TanskiSzymon/food-printer/assets/108231030/45d1698a-4a03-4c6b-9ab7-3a8c82f8efa0" alt="results">
 
 </p>
