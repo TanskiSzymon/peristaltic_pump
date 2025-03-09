@@ -45,7 +45,11 @@ All 3D printed parts in my build were printed with **PLA**, but **PETG, ABS or A
 
 https://github.com/user-attachments/assets/ec12d635-b262-4d2b-be97-4028739146df
 
-📹 **[Video comparison: no compensation vs. compensation V2 vs. compensation V3]**
+
+
+
+https://github.com/user-attachments/assets/e96db572-706e-4646-8457-92a9f6b7622f
+
 
 ---
 
