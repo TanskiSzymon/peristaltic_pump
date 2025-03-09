@@ -39,7 +39,11 @@ This is an upgraded version of the peristaltic pump based on feedback and improv
 
 All 3D printed parts in my build were printed with **PLA**, but **PETG, ABS or ASA** can also be used depending on your needs.
 
-📹 **[Video coming soon – assembly and construction overview]**
+
+
+
+
+https://github.com/user-attachments/assets/ec12d635-b262-4d2b-be97-4028739146df
 
 📹 **[Video comparison: no compensation vs. compensation V2 vs. compensation V3]**
 
