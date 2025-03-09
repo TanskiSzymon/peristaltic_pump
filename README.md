@@ -72,12 +72,6 @@ https://github.com/user-attachments/assets/d98cf8d7-2499-4480-a867-91710e8a880f
 7 – Rotor  
 8 – Lower housing
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=JSP97U3xEK8">
-     <img src="https://img.youtube.com/vi/JSP97U3xEK8/0.jpg" alt="Watch the video.">
-  </a>
-</p>
-
 ---
 
 ## Differences
